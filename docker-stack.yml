@@ -52,8 +52,8 @@ services:
     networks:
       - ingress
     environment:
-      BINANCE_LIVE_API_KEY: ""
-      BINANCE_LIVE_SECRET_KEY: ""
+      BINANCE_LIVE_API_KEY: "ccIXCiXFmIzbqljp4aWTTe6zAWZAI5zQBSr3Hqb4CL54DwwxsbCB1rBcajgzdSrh"
+      BINANCE_LIVE_SECRET_KEY: "xkwUT7efdwLpNvf7Tux6QsJLBOnH8CiU8EhkHVCFz9mFaLL1ozwe2rZI9x8nF3MG"
       BINANCE_TEST_API_KEY: ""
       BINANCE_TEST_SECRET_KEY: ""
       BINANCE_MODE: 'live'
